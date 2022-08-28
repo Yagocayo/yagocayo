@@ -2,7 +2,7 @@
  sou graduado em Análise e desenvolvimento de sistemas
 
 - 🔭 Eu estou Atualmente procurando vaga para trabalhar como desenvolvedor jr.
-- 🌱 Sempre entudando Html, Css, JavaScript, Git, Github, React.js, React Native.js, Vue.js, Node.js
+- 🌱 Sempre estudando Html, Css, JavaScript, Git, Github, React.js, React Native.js, Vue.js, Node.js
 
 <div align="center">
   <a href="https://github.com/Yagocayo">
