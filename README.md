@@ -22,6 +22,7 @@
   <img align="center" alt="yago-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="yago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="yago-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="yago-linux" height="30" width="40" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
  
  
 </div>
