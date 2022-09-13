@@ -4,11 +4,6 @@
 - 🔭 Eu estou Atualmente procurando vaga para trabalhar como desenvolvedor jr.
 - 🌱 Sempre estudando Html, Css, JavaScript, Git, Github, React.js, React Native.js, Vue.js, Node.js
 
- <div align="center">
-  <a href="https://github.com/yagocayo">
-  <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api?username=yagocayo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="395px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagocayo&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
 <div style="display: inline_block"><br>
  <img align="center" alt="yago-windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="yago-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
