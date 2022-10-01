@@ -1,4 +1,4 @@
- Olá! Eu me chamo Yago cayo,
+ Olá! Eu me chamo **Yago cayo**,
  sou graduado em Análise e desenvolvimento de sistemas
 
 - 🔭 Eu estou Atualmente procurando vaga para trabalhar como desenvolvedor jr.
