@@ -4,7 +4,7 @@ Sou graduado em analise e desenvolvimento de sistemas
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-cayo-41a4641b8/)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yago.cayo)
 
-![yagocayo GitHub stats](https://github-readme-stats.vercel.app/api?username=yagocayo&show_icons=true&theme=transparent)
+
 
 ## Tecnologias que uso e estudo!
 
