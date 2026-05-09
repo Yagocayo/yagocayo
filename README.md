@@ -17,7 +17,8 @@
     <img src="https://skillicons.dev/icons?i=linux,debian,vscodium,html,css,js,git,github,ts,react,nodejs,java,docker,rust,go,electron,mysql" />
   </a>
 </div>
-## 🛠 Frontend | Backend | Mobile
+
+## 🛠 Frontend | Backend | Mobile | Open Source
 ---
 
 ## 🎓 Formação Acadêmica | Education
