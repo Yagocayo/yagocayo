@@ -1,22 +1,34 @@
-# Olá! Eu sou o Yago cayo ✋
-Developer Full Stack.<br/>
-Graduado em analise e desenvolvimento de sistemas
-Cursando Pos graduacao em engenharia de software
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-cayo-41a4641b8/)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yago.cayo)
+# Olá, eu sou o Yago Cayo! 👋
 
+### Full Stack Developer | Pós-graduando em Engenharia de Software
 
+Sou um desenvolvedor apaixonado por resolver problemas através do código. Atualmente, foco em aprimorar meus conhecimentos em arquitetura de sistemas e boas práticas de desenvolvimento na minha pós-graduação.
 
-## Tecnologias que uso e estudo!
+---
+## 🛠 Minhas Tecnologias
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,vscodium,html,css,js,git,github,ts,react,nodejs,java,docker,rust,go,mysql," />
+  </a>
+</div>
 
-<div style="display: inline_block"><br/>
-      <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-      <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      
-  </div><br/>
-  
-Apaixonado pela areá de desenvolvimento estudando e construindo meu caminho.
-  
-  
+---
+
+## 🎓 Formação Acadêmica
+*   **Pós-graduação em Engenharia de Software** – Uninassau (Em andamento)
+*   **Graduação em Análise e Desenvolvimento de Sistemas** – Wyden Unifanor/Unifavip
+
+---
+### 💻 O que estou explorando no momento:
+*   **Engenharia de Software:** Aplicando conceitos de arquitetura e padrões de projeto.
+*   **Rust:** Conhecendo a tecnologia e explorando performance e segurança de memória.
+*   **GO:** Conhecendo a tecnologia
+*   **Ecossistema Linux:** Utilizando Debian para ambientes de desenvolvimento robustos.
+
+## 📫 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,"/>
+  </a>
+</div>
